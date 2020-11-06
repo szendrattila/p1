@@ -1,0 +1,1 @@
+print ('\t Hello....! \n \t Nagyon jó ez a program! \n \t Üdv, a program.' )
